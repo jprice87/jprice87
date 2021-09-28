@@ -10,4 +10,53 @@
 
 - 📫 How to reach me: Email me anytime at jaxonprice2@gmail.com
 
+- 🥋 Classes and course equivalents:
 
+      Computer Science
+
+      - Capstone I/II Team Leader
+      - Artificial Intelligence
+      - Database Management Systems
+      - Formal Languages and Computability
+      - Algorithms
+      - Programming Challenges
+      - Operating Systems
+      - Software Engineering
+      - Programming Paradigms
+      - Computer Organization
+      - Digital Design
+      - Programming Foundations I/II
+
+
+      Philosophy
+
+      - Symbolic Logic I
+      - Ethics and The Professions
+      - Introduction to Ethics
+      - Introduction to Philosophy
+      - Reasoning and Discovery
+
+
+      Math
+
+      - Combinatorics
+      - Discrete Mathematics
+      - Linear Algebra
+      - Calculus I/II
+
+
+      General/Other
+
+      - AT&T Summer Learning Academy
+      - Principles of Microeconomics
+      - General Sociology
+      - Environmental Science
+      - University Physics I
+      - University Chemistry I/II
+      - Intro to Engineering I/II
+      - Intermediate German I/II
+      - Elementary German I/II
+      - History of the American People to 1877
+      - Composition I
+      - Classical Studies Rome
+      - Human Life Span Development
