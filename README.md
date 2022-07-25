@@ -1,6 +1,6 @@
 - ✌🏻 Hi, I’m Jaxon Price, @jprice87 on Github.
 
-- 🎓 I am student at the University of Arkansas. I am working towards a Major in Computer Science and a Minor in Philosophy and Mathematics.
+- 🎓 I am recent graduate from the University of Arkansas. I completed a Major in Computer Science and a Minor in Philosophy and Mathematics.
 
 - 👀 I’m interested in figuring out the best ways that humans and computers can co-exist.
 
@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I’m looking to collaborate on any type of software that has heavy social/political implications in order to best use my cross-diciplinary skills.
 
-- 📫 How to reach me: Email me anytime at jaxonprice2@gmail.com
+- 📫 How to reach me: Email me anytime at jaxonprice2@gmail.com, my LinkedIn is https://www.linkedin.com/in/jaxonprice/
 
 - 🥋 Classes and course equivalents:
 
@@ -26,7 +26,8 @@
       - Computer Organization
       - Digital Design
       - Programming Foundations I/II
-
+      - Big Data Analysis/Management
+      - Computer Networks
 
       Philosophy
 
@@ -35,6 +36,7 @@
       - Introduction to Ethics
       - Introduction to Philosophy
       - Reasoning and Discovery
+      - Modern Philosophy
 
 
       Math
